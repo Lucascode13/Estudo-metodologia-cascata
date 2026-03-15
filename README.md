@@ -51,6 +51,20 @@ A Metodologia Cascata é indicada para cenários onde a previsibilidade é mais 
 * **Sistemas Governamentais:** Projetos que exigem conformidade com leis e auditorias rigorosas.
 * **Hardware/Embarcados:** Softwares que operam integrados a componentes físicos e exigem alta estabilidade inicial.
 
+---
+
+##  Vantagens e Desvantagens
+
+###  Vantagens
+* **Estrutura Clara:** Facilidade em definir marcos e prazos.
+* **Documentação Robusta:** Essencial para sistemas que exigem auditoria e histórico.
+* **Foco no Planeamento:** Reduz ambiguidades antes da fase de código.
+
+###  Desvantagens
+* **Dificuldade em Mudanças:** Alterar requisitos no meio do processo gera alto custo.
+* **Feedback Tardio:** O cliente só interage com o produto final, aumentando o risco de insatisfação.
+* **Testes Tardios:** Erros de design só são encontrados na fase final de QA.
+
 ## 👥 Integrantes do Grupo (Alunos)
 * **Lucas Aquino Guedes**
 * **Erick Silva Fernandes de Araujo**
