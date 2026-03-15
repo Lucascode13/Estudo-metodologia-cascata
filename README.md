@@ -42,6 +42,15 @@ Para gerenciar projetos neste modelo, utilizam-se ferramentas de cronograma ríg
 
 ---
 
+## Projetos Recomendados
+
+A Metodologia Cascata é indicada para cenários onde a previsibilidade é mais importante que a velocidade. Os principais tipos de projetos são:
+
+* **Sistemas Críticos:** Softwares médicos, aeroespaciais e de segurança, onde a documentação e os testes rigorosos são vitais.
+* **Projetos de Escopo Fechado:** Quando o cliente sabe exatamente o que precisa e os requisitos não sofrerão alterações.
+* **Sistemas Governamentais:** Projetos que exigem conformidade com leis e auditorias rigorosas.
+* **Hardware/Embarcados:** Softwares que operam integrados a componentes físicos e exigem alta estabilidade inicial.
+
 ## 👥 Integrantes do Grupo (Alunos)
 * **Lucas Aquino Guedes**
 * **Erick Silva Fernandes de Araujo**
