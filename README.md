@@ -35,6 +35,18 @@ Apesar de ser o "pai" do modelo Cascata, no seu artigo original de 1970, Winston
 
 ---
 
+---
+
+## Papéis e Responsabilidades na Equipe
+
+Devido à natureza fragmentada do modelo Cascata, as equipes geralmente são altamente especializadas e trabalham de forma isolada em suas respectivas fases:
+
+* **Analista de Requisitos:** Focado quase exclusivamente na primeira fase, sendo a ponte entre o cliente e a equipe técnica para gerar o Documento de Especificação de Requisitos.
+* **Arquiteto de Software/Designer:** Traduz os requisitos em diagramas (UML, MER) e define a infraestrutura tecnológica.
+* **Desenvolvedor/Programador:** Fica responsável apenas por codificar o que foi estritamente definido nos documentos de design, geralmente sem contato direto com o cliente.
+* **Engenheiro de Qualidade (QA):** Entra em ação na fase de Testes, criando e executando cenários baseados nos requisitos iniciais para validar o sistema.
+* **Gerente de Projetos:** Papel vital para garantir que o cronograma rígido e as entregas (milestones) de cada fase sejam cumpridos antes de autorizar o início da próxima.
+
 ## Tecnologias e Ferramentas Relacionadas
 Para gerenciar projetos neste modelo, utilizam-se ferramentas de cronograma rígido:
 * **Gráficos de Gantt** (Visualização do cronograma sequencial)
