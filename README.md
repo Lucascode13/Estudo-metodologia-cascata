@@ -12,6 +12,7 @@ A metodologia **Cascata (Waterfall)** é um modelo de desenvolvimento de sistema
 Formalizada por Winston Royce em 1970, esta abordagem prioriza o planejamento detalhado e a documentação rigorosa antes de qualquer linha de código ser escrita. É um dos modelos mais tradicionais da Engenharia de Software.
 
 ---
+
 ### Curiosidade Histórica
 Apesar de ser o "pai" do modelo Cascata, no seu artigo original de 1970, Winston Royce na verdade propôs um modelo que incluía retornos (feedbacks) entre as fases, alertando que uma abordagem estritamente linear seria arriscada e propensa a falhas. Ironicamente, a indústria adotou apenas a interpretação estritamente sequencial do seu diagrama, que acabou se popularizando como o modelo Cascata tradicional que conhecemos hoje.
 ## Características Principais
@@ -32,8 +33,6 @@ Apesar de ser o "pai" do modelo Cascata, no seu artigo original de 1970, Winston
 4.  **Testes (QA):** Verificação de erros e validação se o sistema atende aos requisitos iniciais.
 5.  **Implantação:** Entrega do produto final ao usuário/cliente.
 6.  **Manutenção:** Correções de bugs e atualizações necessárias após o lançamento.
-
----
 
 ---
 
