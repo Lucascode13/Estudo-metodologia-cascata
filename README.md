@@ -80,6 +80,22 @@ Imagine o desenvolvimento do software que controla os freios ou a navegação de
 * **Dificuldade em Mudanças:** Alterar requisitos no meio do processo gera alto custo.
 * **Feedback Tardio:** O cliente só interage com o produto final, aumentando o risco de insatisfação.
 * **Testes Tardios:** Erros de design só são encontrados na fase final de QA.
+---
+
+## Comparativo Rápido: Cascata vs. Ágil
+
+Para fins de contexto de mercado atual, é comum comparar o modelo Cascata com as metodologias Ágeis (como Scrum):
+
+| Característica | Metodologia Cascata | Metodologias Ágeis |
+| :--- | :--- | :--- |
+| **Abordagem** | Preditiva (Planejamento total inicial) | Adaptativa (Planejamento contínuo) |
+| **Escopo** | Fixo e rígido | Flexível e aberto a mudanças |
+| **Entregas** | Uma única entrega no final do projeto | Entregas pequenas, contínuas e iterativas |
+| **Participação do Cliente**| Alta no início (Requisitos) e no fim (Entrega) | Contínua durante todo o desenvolvimento |
+| **Foco Principal** | Processos, cronogramas e documentação | Software funcionando e colaboração |
+
+---
+
 
 ## 👥 Integrantes do Grupo (Alunos)
 * **Lucas Aquino Guedes**
