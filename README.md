@@ -66,6 +66,9 @@ A Metodologia Cascata é indicada para cenários onde a previsibilidade é mais 
 
 ---
 
+### Exemplo Prático: Sistema de Controle de Voo (Aviônica)
+Imagine o desenvolvimento do software que controla os freios ou a navegação de um avião comercial. Neste cenário, não é possível usar uma abordagem de tentativa e erro (como em metodologias ágeis). Todos os requisitos de segurança, limites de velocidade, tempo de resposta do hardware e protocolos de emergência precisam ser 100% mapeados, documentados e testados antes de o avião sair do chão. Mudanças de escopo de última hora são inaceitáveis devido ao risco de vida envolvido. Este é o cenário perfeito para a Metodologia Cascata.
+
 ##  Vantagens e Desvantagens
 
 ###  Vantagens
